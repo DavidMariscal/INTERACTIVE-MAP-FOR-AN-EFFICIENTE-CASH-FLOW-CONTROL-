@@ -1,0 +1,38 @@
+[
+  {
+    "NO": 1,
+    "Nombre": "BESTOP INC .(LOUISVILLE)",
+    "Tipo": "AUTO",
+    "Lat": 19.3465688,
+    "Lon": -99.5885167,
+    "ABR": "BESTOP",
+    "MONTO": 9663451.84
+  },
+  {
+    "NO": 2,
+    "Nombre": "FLEX N GATE MEXICO S. DE R.L. DE C.V.",
+    "Tipo": "AUTO",
+    "Lat": 21.0592004,
+    "Lon": -100.4802127,
+    "ABR": "F&G",
+    "MONTO": 91619.58
+  },
+  {
+    "NO": 3,
+    "Nombre": "GALVANIZADORA DE OCCIDENTE, S.A. DE C.V.",
+    "Tipo": "AUTO",
+    "Lat": 20.6329025,
+    "Lon": -103.3599698,
+    "ABR": "GDO",
+    "MONTO": 41001.87
+  },
+  {
+    "NO": 4,
+    "Nombre": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Tipo": "AUTO",
+    "Lat": 19.2950139,
+    "Lon": -99.5755043,
+    "ABR": "GA",
+    "MONTO": 9943189.11
+  }
+]

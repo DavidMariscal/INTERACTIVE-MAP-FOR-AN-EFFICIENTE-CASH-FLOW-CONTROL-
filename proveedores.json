@@ -1,0 +1,822 @@
+[
+  {
+    "NO": 1,
+    "Nombre": "3D MEASUREMENT TECHNOLOGIES",
+    "Tipo": "EQUIPOS",
+    "Lat": 25.779209,
+    "Lon": -100.131046,
+    "ABR": "3D",
+    "MONTO": "175,281.80",
+    "MONTO1": 175281.8
+  },
+  {
+    "NO": 2,
+    "Nombre": "ACTIFY INC",
+    "Tipo": "SERVICIOS",
+    "Lat": 37.7932307,
+    "Lon": -122.3988173,
+    "ABR": "AC",
+    "MONTO": "30,080.00",
+    "MONTO1": 30080
+  },
+  {
+    "NO": 3,
+    "Nombre": "ACTIVE LEASING SA DE CV",
+    "Tipo": "SERVICIOS",
+    "Lat": 19.4277638,
+    "Lon": -99.2045125,
+    "ABR": "AL",
+    "MONTO": "38,769.00",
+    "MONTO1": 38769
+  },
+  {
+    "NO": 4,
+    "Nombre": "AENOR MEXICO",
+    "Tipo": "SERVICIOS",
+    "Lat": 19.4308883,
+    "Lon": -99.1834605,
+    "ABR": "AE",
+    "MONTO": "122,180.39",
+    "MONTO1": 122180.39
+  },
+  {
+    "NO": 5,
+    "Nombre": "ALEJANDRO GONZALEZ GARCIA",
+    "Tipo": "EMPAQUES",
+    "Lat": "",
+    "Lon": "",
+    "ABR": "AGG",
+    "MONTO": "5,376.60",
+    "MONTO1": 5376.6
+  },
+  {
+    "NO": 6,
+    "Nombre": "ALESCA IMPRESORES SA DE CV",
+    "Tipo": "EMPAQUES",
+    "Lat": 19.6573694,
+    "Lon": -99.2191141,
+    "ABR": "AI",
+    "MONTO": "49,775.60",
+    "MONTO1": 49775.6
+  },
+  {
+    "NO": 7,
+    "Nombre": "ALFONSO GARCIA SUAREZ",
+    "Tipo": "SERVICIOS",
+    "Lat": 20.5936843,
+    "Lon": -100.394969,
+    "ABR": "AGG",
+    "MONTO": "3,005.00",
+    "MONTO1": 3005
+  },
+  {
+    "NO": 8,
+    "Nombre": "ANA KARINA BANUELOS CISNEROS",
+    "Tipo": "CONSUMIBLES",
+    "Lat": "",
+    "Lon": "",
+    "ABR": "KBS",
+    "MONTO": "3,773.25",
+    "MONTO1": 3773.25
+  },
+  {
+    "NO": 9,
+    "Nombre": "ANGEL CADENA GUTIERREZ",
+    "Tipo": "CONSUMIBLES",
+    "Lat": "",
+    "Lon": "",
+    "ABR": "ACG",
+    "MONTO": "53,424.64",
+    "MONTO1": 53424.64
+  },
+  {
+    "NO": 10,
+    "Nombre": "BLACK & DECKER SA DE CV",
+    "Tipo": "COMPONENTES",
+    "Lat": 19.6578011,
+    "Lon": -99.1914539,
+    "ABR": "B&D",
+    "MONTO": "145,633.97",
+    "MONTO1": 145633.965
+  },
+  {
+    "NO": 11,
+    "Nombre": "CAPITAL SATELITE S DE R.L. DE C.V.",
+    "Tipo": "RH",
+    "Lat": 19.4983445,
+    "Lon": -99.2339541,
+    "ABR": "CS",
+    "MONTO": "97,414.82",
+    "MONTO1": 97414.82
+  },
+  {
+    "NO": 12,
+    "Nombre": "CELIA GALINDO FLORES",
+    "Tipo": "CONSUMIBLES",
+    "Lat": "",
+    "Lon": "",
+    "ABR": "CGF",
+    "MONTO": "13,142.80",
+    "MONTO1": 13142.8
+  },
+  {
+    "NO": 13,
+    "Nombre": "CHEM AQUA MEXICO, SA DE CV",
+    "Tipo": "SERVICIOS",
+    "Lat": 19.6867412,
+    "Lon": -99.1872127,
+    "ABR": "CH",
+    "MONTO": "44,080.00",
+    "MONTO1": 44080
+  },
+  {
+    "NO": 14,
+    "Nombre": "CORE TOOLS CONSULTING, S. C.",
+    "Tipo": "SERVICIOS",
+    "Lat": 25.6782303,
+    "Lon": -100.2901678,
+    "ABR": "CT",
+    "MONTO": "48,140.00",
+    "MONTO1": 48140
+  },
+  {
+    "NO": 15,
+    "Nombre": "CORPORATIVO ADUANAL ESPECIALIZADO SC",
+    "Tipo": "SERVICIOS",
+    "Lat": 19.028603,
+    "Lon": -98.214799,
+    "ABR": "CAE",
+    "MONTO": "16,746.88",
+    "MONTO1": 16746.88
+  },
+  {
+    "NO": 16,
+    "Nombre": "CUERPO DE VIGILANCIA AUXILIAR Y URBANA DEL ESTADO DE MEXICO",
+    "Tipo": "SERVICIOS",
+    "Lat": 19.5225731,
+    "Lon": -99.1697391,
+    "ABR": "CV",
+    "MONTO": "98,924.40",
+    "MONTO1": 98924.4
+  },
+  {
+    "NO": 17,
+    "Nombre": "DANIEL GUTIERREZ RIVERO",
+    "Tipo": "SERVICIOS",
+    "Lat": "",
+    "Lon": "",
+    "ABR": "DGR",
+    "MONTO": "448,120.00",
+    "MONTO1": 448120
+  },
+  {
+    "NO": 18,
+    "Nombre": "DANIEL RODRIGUEZ NAVARRETE",
+    "Tipo": "SERVICIOS",
+    "Lat": "",
+    "Lon": "",
+    "ABR": "DRN",
+    "MONTO": "22,161.80",
+    "MONTO1": 22161.8
+  },
+  {
+    "NO": 19,
+    "Nombre": "DESPACHO MANUEL DURAN SILVA SC",
+    "Tipo": "SERVICIOS",
+    "Lat": "",
+    "Lon": "",
+    "ABR": "MD",
+    "MONTO": "261,000.00",
+    "MONTO1": 261000
+  },
+  {
+    "NO": 20,
+    "Nombre": "DSM ENGINEERING PLASTICS INC",
+    "Tipo": "RESINAS",
+    "Lat": 19.3665171,
+    "Lon": -99.2628614,
+    "ABR": "DSM",
+    "MONTO": "15,206.62",
+    "MONTO1": 15206.615
+  },
+  {
+    "NO": 21,
+    "Nombre": "ELEMENT MATERIALS TECHNOLOGY",
+    "Tipo": "MANTTO",
+    "Lat": 25.69312,
+    "Lon": -100.5081,
+    "ABR": "EMT",
+    "MONTO": "42,770.00",
+    "MONTO1": 42770
+  },
+  {
+    "NO": 22,
+    "Nombre": "ELISEO LUIS MORA CORTES",
+    "Tipo": "CONSUMIBLES",
+    "Lat": "",
+    "Lon": "",
+    "ABR": "ELMC",
+    "MONTO": "49,018.86",
+    "MONTO1": 49018.86
+  },
+  {
+    "NO": 23,
+    "Nombre": "ELIUD SOTO MORENO",
+    "Tipo": "CONSUMIBLES",
+    "Lat": "",
+    "Lon": "",
+    "ABR": "ESM",
+    "MONTO": 416,
+    "MONTO1": 416
+  },
+  {
+    "NO": 24,
+    "Nombre": "EMI PLASTICOS INTERNACIONALES",
+    "Tipo": "MANTTO",
+    "Lat": 20.8290258,
+    "Lon": -100.4232596,
+    "ABR": "EMI",
+    "MONTO": "265,812.73",
+    "MONTO1": 265812.73
+  },
+  {
+    "NO": 25,
+    "Nombre": "EMMANUEL GARCIA ORTIZ",
+    "Tipo": "EQUIPOS",
+    "Lat": "",
+    "Lon": "",
+    "ABR": "EGO",
+    "MONTO": "31,320.00",
+    "MONTO1": 31320
+  },
+  {
+    "NO": 26,
+    "Nombre": "ENTECRESINS MEXICO S DE RL DE CV",
+    "Tipo": "RESINAS",
+    "Lat": 19.4258633,
+    "Lon": -99.1769085,
+    "ABR": "ENTEC",
+    "MONTO": "386,301.46",
+    "MONTO1": 386301.46
+  },
+  {
+    "NO": 27,
+    "Nombre": "EPICOR BUSINESS SOLUTIONS MEXI",
+    "Tipo": "SERVICIOS",
+    "Lat": 25.669626,
+    "Lon": -100.3787486,
+    "ABR": "EPICOR",
+    "MONTO": "249,238.42",
+    "MONTO1": 249238.415
+  },
+  {
+    "NO": 28,
+    "Nombre": "ETIQUENOVA, SA DE CV",
+    "Tipo": "EMPAQUES",
+    "Lat": 19.5387115,
+    "Lon": -99.2322392,
+    "ABR": "ENOVA",
+    "MONTO": "21,849.60",
+    "MONTO1": 21849.595
+  },
+  {
+    "NO": 29,
+    "Nombre": "EUSTOLIA VARGAS OLVERA",
+    "Tipo": "SERVICIOS",
+    "Lat": "",
+    "Lon": "",
+    "ABR": "EVO",
+    "MONTO": "25,772.30",
+    "MONTO1": 25772.3
+  },
+  {
+    "NO": 30,
+    "Nombre": "FEDEX DE MEXICO S DE RL DE CV",
+    "Tipo": "SERVICIOS",
+    "Lat": 19.3722088,
+    "Lon": -99.2630061,
+    "ABR": "FEDEX",
+    "MONTO": 304.07,
+    "MONTO1": 304.07
+  },
+  {
+    "NO": 31,
+    "Nombre": "FERNANDO PALMA HERNANDEZ",
+    "Tipo": "EQUIPOS",
+    "Lat": "",
+    "Lon": "",
+    "ABR": "FPH",
+    "MONTO": "44,776.00",
+    "MONTO1": 44776
+  },
+  {
+    "NO": 32,
+    "Nombre": "FERRETERIA MODELO MEXICO SA DE",
+    "Tipo": "CONSUMIBLES",
+    "Lat": 19.547977,
+    "Lon": -99.206357,
+    "ABR": "FM",
+    "MONTO": "36,879.96",
+    "MONTO1": 36879.96
+  },
+  {
+    "NO": 33,
+    "Nombre": "GEOREP SA DE CV",
+    "Tipo": "SERVICIOS",
+    "Lat": 20.650263,
+    "Lon": -103.4064626,
+    "ABR": "GEOR",
+    "MONTO": "5,828.00",
+    "MONTO1": 5828
+  },
+  {
+    "NO": 34,
+    "Nombre": "GONZALEZ JUAREZ IVAR",
+    "Tipo": "CONSUMIBLES",
+    "Lat": "",
+    "Lon": "",
+    "ABR": "GJI",
+    "MONTO": "76,891.76",
+    "MONTO1": 76891.76
+  },
+  {
+    "NO": 35,
+    "Nombre": "GRUAS E-MAT SA DE CV",
+    "Tipo": "SERVICIOS",
+    "Lat": 19.2848217,
+    "Lon": -99.5265714,
+    "ABR": "GRUAS",
+    "MONTO": "125,280.00",
+    "MONTO1": 125280
+  },
+  {
+    "NO": 37,
+    "Nombre": "HANDERMEX, S.A. DE C.V.",
+    "Tipo": "SERVICIOS",
+    "Lat": 19.6306733,
+    "Lon": -99.1384269,
+    "ABR": "HAND",
+    "MONTO": "18,817.04",
+    "MONTO1": 18817.04
+  },
+  {
+    "NO": 38,
+    "Nombre": "INDELPRO SA DE CV",
+    "Tipo": "RESINAS",
+    "Lat": 19.3965022,
+    "Lon": -99.1719439,
+    "ABR": "INDEL",
+    "MONTO": "1,759,458.63",
+    "MONTO1": 1759458.63
+  },
+  {
+    "NO": 39,
+    "Nombre": "INGENERIA Y BOBINADOS TECNICO",
+    "Tipo": "MANTTO",
+    "Lat": 19.540594,
+    "Lon": -99.2214607,
+    "ABR": "IBT",
+    "MONTO": "30,020.80",
+    "MONTO1": 30020.8
+  },
+  {
+    "NO": 40,
+    "Nombre": "INSTITUTO DE RESOLUCIONES  SC",
+    "Tipo": "SERVICIOS",
+    "Lat": 19.4325876,
+    "Lon": -99.1836139,
+    "ABR": "HILDE",
+    "MONTO": "11,136.00",
+    "MONTO1": 11136
+  },
+  {
+    "NO": 41,
+    "Nombre": "IRMA RENDON CASAS",
+    "Tipo": "CONSUMIBLES",
+    "Lat": "",
+    "Lon": "",
+    "ABR": "IRC",
+    "MONTO": "11,293.09",
+    "MONTO1": 11293.09
+  },
+  {
+    "NO": 42,
+    "Nombre": "ISAAC GARCIA SANCHEZ",
+    "Tipo": "MANTTO",
+    "Lat": "",
+    "Lon": "",
+    "ABR": "IGS",
+    "MONTO": "16,460.43",
+    "MONTO1": 16460.43
+  },
+  {
+    "NO": 43,
+    "Nombre": "JD MOTOR'S SA DE CV",
+    "Tipo": "MANTTO",
+    "Lat": 19.6521282,
+    "Lon": -99.1594119,
+    "ABR": "JDM",
+    "MONTO": "4,872.00",
+    "MONTO1": 4872
+  },
+  {
+    "NO": 44,
+    "Nombre": "KINTEL, S.A. DE C.V. �",
+    "Tipo": "CONSUMIBLES",
+    "Lat": 19.378295,
+    "Lon": -99.19492,
+    "ABR": "KINTEL",
+    "MONTO": "13,688.00",
+    "MONTO1": 13688
+  },
+  {
+    "NO": 45,
+    "Nombre": "LEON RAFAEL ZERECERO PEREZ",
+    "Tipo": "EMPAQUES",
+    "Lat": "",
+    "Lon": "",
+    "ABR": "LRZ",
+    "MONTO": "195,750.00",
+    "MONTO1": 195750
+  },
+  {
+    "NO": 46,
+    "Nombre": "LUIS ENRIQUE OSORIO ALBARRAN",
+    "Tipo": "MANTTO",
+    "Lat": "",
+    "Lon": "",
+    "ABR": "LEOA",
+    "MONTO": "54,578.00",
+    "MONTO1": 54578
+  },
+  {
+    "NO": 47,
+    "Nombre": "MANGUERAS Y CONEX DEL VALLE",
+    "Tipo": "MANTTO",
+    "Lat": 19.5518434,
+    "Lon": -99.1905479,
+    "ABR": "MYCV",
+    "MONTO": "97,864.49",
+    "MONTO1": 97864.49
+  },
+  {
+    "NO": 48,
+    "Nombre": "MANGUERAS Y CONEX. TRUJILLO",
+    "Tipo": "MANTTO",
+    "Lat": "",
+    "Lon": "",
+    "ABR": "MYT",
+    "MONTO": "47,602.92",
+    "MONTO1": 47602.92
+  },
+  {
+    "NO": 49,
+    "Nombre": "MARIA ELENA LOPEZ BERNAL",
+    "Tipo": "CONSUMIBLES",
+    "Lat": "",
+    "Lon": "",
+    "ABR": "MELB",
+    "MONTO": "1,500.00",
+    "MONTO1": 1500
+  },
+  {
+    "NO": 50,
+    "Nombre": "MARTIN PEDRO NARANJO RAMIREZ",
+    "Tipo": "SERVICIOS",
+    "Lat": "",
+    "Lon": "",
+    "ABR": "MPNR",
+    "MONTO": "195,552.00",
+    "MONTO1": 195552
+  },
+  {
+    "NO": 51,
+    "Nombre": "METALICA INDUSTRIAL Y COMERCIA",
+    "Tipo": "MANTTO",
+    "Lat": 19.637223,
+    "Lon": -99.009711,
+    "ABR": "MIC",
+    "MONTO": "89,610.00",
+    "MONTO1": 89610
+  },
+  {
+    "NO": 52,
+    "Nombre": "METALMOLD MEXICO SA DE CV",
+    "Tipo": "RESINAS",
+    "Lat": 19.3000164,
+    "Lon": -99.5597681,
+    "ABR": "MM",
+    "MONTO": "2,974.63",
+    "MONTO1": 2974.63
+  },
+  {
+    "NO": 53,
+    "Nombre": "MILACRON MEXICANA SALES, S.A.",
+    "Tipo": "EQUIPOS",
+    "Lat": 20.6289789,
+    "Lon": -100.4242515,
+    "ABR": "MC",
+    "MONTO": "14,437.46",
+    "MONTO1": 14437.46
+  },
+  {
+    "NO": 54,
+    "Nombre": "MOLDES Y MAQUINADOS REAL SA DE CV",
+    "Tipo": "EQUIPOS",
+    "Lat": 19.7189052,
+    "Lon": -99.2245221,
+    "ABR": "MYM",
+    "MONTO": "10,672.00",
+    "MONTO1": 10672
+  },
+  {
+    "NO": 55,
+    "Nombre": "MULTISERVICIOS TECNICOS EN GAS MTG, S.A. DE C.V.",
+    "Tipo": "SERVICIOS",
+    "Lat": 19.6728359,
+    "Lon": -99.1996357,
+    "ABR": "MTG",
+    "MONTO": "78,272.23",
+    "MONTO1": 78272.23
+  },
+  {
+    "NO": 56,
+    "Nombre": "NEXEO PLASTICS",
+    "Tipo": "RESINAS",
+    "Lat": 19.3665171,
+    "Lon": -99.2628614,
+    "ABR": "NEXEO",
+    "MONTO": "106,024.25",
+    "MONTO1": 106024.245
+  },
+  {
+    "NO": 57,
+    "Nombre": "NOVA TOOL & MOLD INC",
+    "Tipo": "MOLDES",
+    "Lat": 42.2419498,
+    "Lon": -82.9655267,
+    "ABR": "NOVA",
+    "MONTO": "1,687,417.50",
+    "MONTO1": 1687417.5
+  },
+  {
+    "NO": 58,
+    "Nombre": "O&E ESPECIALISTAS EN REFACCIONES INDUSTRIALES",
+    "Tipo": "MANTTO",
+    "Lat": "",
+    "Lon": "",
+    "ABR": "O&E",
+    "MONTO": "9,860.00",
+    "MONTO1": 9860
+  },
+  {
+    "NO": 59,
+    "Nombre": "OPERADORA DE RASTREOS UDA, SA DE CV",
+    "Tipo": "SERVICIOS",
+    "Lat": 19.507976,
+    "Lon": -99.2365381,
+    "ABR": "UDA",
+    "MONTO": "2,088.00",
+    "MONTO1": 2088
+  },
+  {
+    "NO": 60,
+    "Nombre": "ORLANDO AZPEITIA CASTILLO",
+    "Tipo": "CONSUMIBLES",
+    "Lat": "",
+    "Lon": "",
+    "ABR": "OAC",
+    "MONTO": "20,448.71",
+    "MONTO1": 20448.71
+  },
+  {
+    "NO": 61,
+    "Nombre": "OSCAR FERNANDO ANTONIO CAMILO",
+    "Tipo": "CONSUMIBLES",
+    "Lat": "",
+    "Lon": "",
+    "ABR": "OAC",
+    "MONTO": "42,063.45",
+    "MONTO1": 42063.45
+  },
+  {
+    "NO": 62,
+    "Nombre": "PERU PACK CABRERA S.A DE C.V",
+    "Tipo": "EMPAQUES",
+    "Lat": 19.406736,
+    "Lon": -99.7151204,
+    "ABR": "PACK",
+    "MONTO": "481,617.03",
+    "MONTO1": 481617.03
+  },
+  {
+    "NO": 63,
+    "Nombre": "PININ DE MEXICO S.A. DE C.V �",
+    "Tipo": "EMPAQUES",
+    "Lat": 19.7050246,
+    "Lon": -99.2034155,
+    "ABR": "PINNIN",
+    "MONTO": "91,651.60",
+    "MONTO1": 91651.6
+  },
+  {
+    "NO": 64,
+    "Nombre": "PromaPlast Resinas, S A  de C V",
+    "Tipo": "RESINAS",
+    "Lat": 19.3142863,
+    "Lon": -99.5354639,
+    "ABR": "PPR",
+    "MONTO": "55,346.73",
+    "MONTO1": 55346.73
+  },
+  {
+    "NO": 65,
+    "Nombre": "R3J3 SA DE CV",
+    "Tipo": "CONSUMIBLES",
+    "Lat": 19.5243841,
+    "Lon": -99.2347161,
+    "ABR": "R3J3",
+    "MONTO": "15,288.42",
+    "MONTO1": 15288.42
+  },
+  {
+    "NO": 66,
+    "Nombre": "RDMS SOLUCIONES EMPRESARIALES",
+    "Tipo": "SERVICIOS",
+    "Lat": 25.6596516,
+    "Lon": -100.3688515,
+    "ABR": "RDMS",
+    "MONTO": "151,914.58",
+    "MONTO1": 151914.575
+  },
+  {
+    "NO": 67,
+    "Nombre": "ROBERTO MENDOZA HERNANDEZ",
+    "Tipo": "CONSUMIBLES",
+    "Lat": "",
+    "Lon": "",
+    "ABR": "RMH",
+    "MONTO": "20,706.00",
+    "MONTO1": 20706
+  },
+  {
+    "NO": 68,
+    "Nombre": "ROSA MARIA HERNANDEZ RODRIGUEZ",
+    "Tipo": "SERVICIOS",
+    "Lat": "",
+    "Lon": "",
+    "ABR": "RMHR",
+    "MONTO": "61,936.00",
+    "MONTO1": 61936
+  },
+  {
+    "NO": 69,
+    "Nombre": "SABIC INNOVATIVE PLASTICS",
+    "Tipo": "RESINAS",
+    "Lat": 19.3937096,
+    "Lon": -99.2413432,
+    "ABR": "SABIC",
+    "MONTO": "157,562.80",
+    "MONTO1": 157562.8
+  },
+  {
+    "NO": 70,
+    "Nombre": "SANTIAGO VEGA CLEMENTE",
+    "Tipo": "MANTTO",
+    "Lat": "",
+    "Lon": "",
+    "ABR": "SVC",
+    "MONTO": "32,190.00",
+    "MONTO1": 32190
+  },
+  {
+    "NO": 71,
+    "Nombre": "SBS VIS ET BOULONS, INC",
+    "Tipo": "COMPONENTES",
+    "Lat": 45.4873887,
+    "Lon": -72.3059239,
+    "ABR": "SBS",
+    "MONTO": "699,559.75",
+    "MONTO1": 699559.75
+  },
+  {
+    "NO": 72,
+    "Nombre": "SERV INT DE INSPECCION MEXICAN",
+    "Tipo": "SERVICIOS",
+    "Lat": 19.273552,
+    "Lon": -99.6068896,
+    "ABR": "SIIMEX",
+    "MONTO": "34,800.00",
+    "MONTO1": 34800
+  },
+  {
+    "NO": 73,
+    "Nombre": "SERVICIO DE COMPUTO Y PAPELERIA FAVISA",
+    "Tipo": "SERVICIOS",
+    "Lat": "",
+    "Lon": "",
+    "ABR": "SCP",
+    "MONTO": "9,652.36",
+    "MONTO1": 9652.36
+  },
+  {
+    "NO": 74,
+    "Nombre": "SHEREX MEXICO, S. DE R.L. DE C.V.",
+    "Tipo": "COMPONENTES",
+    "Lat": 20.531891,
+    "Lon": -100.458828,
+    "ABR": "SHEREX",
+    "MONTO": "274,440.05",
+    "MONTO1": 274440.05
+  },
+  {
+    "NO": 75,
+    "Nombre": "SIGIFRIDO MARTINEZ MOCTEZUMA",
+    "Tipo": "CONSUMIBLES",
+    "Lat": "",
+    "Lon": "",
+    "ABR": "SMM",
+    "MONTO": "6,420.03",
+    "MONTO1": 6420.03
+  },
+  {
+    "NO": 76,
+    "Nombre": "SIGN CAL SA DE CV",
+    "Tipo": "EMPAQUES",
+    "Lat": 19.3349688,
+    "Lon": -99.1226664,
+    "ABR": "SIGN",
+    "MONTO": "6,918.24",
+    "MONTO1": 6918.24
+  },
+  {
+    "NO": 77,
+    "Nombre": "SOXTEC SA DE CV",
+    "Tipo": "SERVICIOS",
+    "Lat": 25.6516228,
+    "Lon": -100.3348185,
+    "ABR": "SOXT",
+    "MONTO": "35,741.00",
+    "MONTO1": 35741
+  },
+  {
+    "NO": 78,
+    "Nombre": "STEPHANIE NALLELY NAVA ROA",
+    "Tipo": "CONSUMIBLES",
+    "Lat": "",
+    "Lon": "",
+    "ABR": "SNNR",
+    "MONTO": "3,351.24",
+    "MONTO1": 3351.24
+  },
+  {
+    "NO": 79,
+    "Nombre": "TI COMERCIALIZADORA LEASING JABES SA DE CV",
+    "Tipo": "EQUIPOS",
+    "Lat": 19.4386071,
+    "Lon": -99.1034228,
+    "ABR": "TICJ",
+    "MONTO": "10,833.81",
+    "MONTO1": 10833.81
+  },
+  {
+    "NO": 80,
+    "Nombre": "VICTOR MANRIQUE PEREZ",
+    "Tipo": "EQUIPOS",
+    "Lat": "",
+    "Lon": "",
+    "ABR": "VMP",
+    "MONTO": "1,380.40",
+    "MONTO1": 1380.4
+  },
+  {
+    "NO": 81,
+    "Nombre": "VINMAR PLASTICHEM, S. DE R.L. DE C.V.",
+    "Tipo": "RESINAS",
+    "Lat": 19.4353647,
+    "Lon": -99.2122883,
+    "ABR": "VINMAR",
+    "MONTO": "479,776.00",
+    "MONTO1": 479776
+  },
+  {
+    "NO": 82,
+    "Nombre": "WASHINGTON PENN PLASTIC DE MEX",
+    "Tipo": "RESINAS",
+    "Lat": 25.7700755,
+    "Lon": -100.1514575,
+    "ABR": "WP",
+    "MONTO": "1,946,364.00",
+    "MONTO1": 1946364
+  },
+  {
+    "NO": 83,
+    "Nombre": "YOLANDA FRAGOSO GOMEZ",
+    "Tipo": "SERVICIOS",
+    "Lat": "",
+    "Lon": "",
+    "ABR": "YFG",
+    "MONTO": "6,229.20",
+    "MONTO1": 6229.2
+  }
+]

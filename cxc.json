@@ -1,0 +1,1392 @@
+[
+  {
+    "Fecha": "11-feb-20",
+    "CFDi": 7494,
+    "Razon social": "BESTOP INC .(LOUISVILLE)",
+    "Cliente": "BESTOP",
+    "Total": "10,749.60",
+    "monto": 247240.8,
+    "dias": 68,
+    "fecha_pago": "18-abr-20"
+  },
+  {
+    "Fecha": "12-feb-20",
+    "CFDi": 10988,
+    "Razon social": "BESTOP INC .(LOUISVILLE)",
+    "Cliente": "BESTOP",
+    "Total": 19596,
+    "monto": 450708,
+    "dias": 67,
+    "fecha_pago": "18-abr-20"
+  },
+  {
+    "Fecha": "14-feb-20",
+    "CFDi": 7517,
+    "Razon social": "BESTOP INC .(LOUISVILLE)",
+    "Cliente": "BESTOP",
+    "Total": "1,116.00",
+    "monto": 25668,
+    "dias": 65,
+    "fecha_pago": "25-abr-20"
+  },
+  {
+    "Fecha": "18-feb-20",
+    "CFDi": 10990,
+    "Razon social": "BESTOP INC .(LOUISVILLE)",
+    "Cliente": "BESTOP",
+    "Total": 2480.4,
+    "monto": 57049.2,
+    "dias": 61,
+    "fecha_pago": "25-abr-20"
+  },
+  {
+    "Fecha": "19-feb-20",
+    "CFDi": 7551,
+    "Razon social": "FLEX N GATE MEXICO S. DE R.L. DE C.V.",
+    "Cliente": "FLEX",
+    "Total": "1,158.80",
+    "monto": 26652.4,
+    "dias": 60,
+    "fecha_pago": "19-abr-20"
+  },
+  {
+    "Fecha": "21-feb-20",
+    "CFDi": 10995,
+    "Razon social": "BESTOP INC .(LOUISVILLE)",
+    "Cliente": "BESTOP",
+    "Total": 8816.4,
+    "monto": 202777.2,
+    "dias": 58,
+    "fecha_pago": "25-abr-20"
+  },
+  {
+    "Fecha": "21-feb-20",
+    "CFDi": 7563,
+    "Razon social": "FLEX N GATE MEXICO S. DE R.L. DE C.V.",
+    "Cliente": "FLEX",
+    "Total": 630.58,
+    "monto": 14503.34,
+    "dias": 58,
+    "fecha_pago": "21-abr-20"
+  },
+  {
+    "Fecha": "25-feb-20",
+    "CFDi": 7578,
+    "Razon social": "BESTOP INC .(LOUISVILLE)",
+    "Cliente": "BESTOP",
+    "Total": "17,474.40",
+    "monto": 401911.2,
+    "dias": 54,
+    "fecha_pago": "02-may-20"
+  },
+  {
+    "Fecha": "25-feb-20",
+    "CFDi": 10999,
+    "Razon social": "BESTOP INC .(LOUISVILLE)",
+    "Cliente": "BESTOP",
+    "Total": 21191.2,
+    "monto": 487397.6,
+    "dias": 54,
+    "fecha_pago": "02-may-20"
+  },
+  {
+    "Fecha": "25-feb-20",
+    "CFDi": 7583,
+    "Razon social": "GALVANIZADORA DE OCCIDENTE, S.A. DE C.V.",
+    "Cliente": "GDO",
+    "Total": "1,782.69",
+    "monto": 41001.87,
+    "dias": 54,
+    "fecha_pago": "25-abr-20"
+  },
+  {
+    "Fecha": "28-feb-20",
+    "CFDi": 10951,
+    "Razon social": "BESTOP INC .(LOUISVILLE)",
+    "Cliente": "BESTOP",
+    "Total": 10639.2,
+    "monto": 244701.6,
+    "dias": 51,
+    "fecha_pago": "02-may-20"
+  },
+  {
+    "Fecha": "28-feb-20",
+    "CFDi": 10952,
+    "Razon social": "BESTOP INC .(LOUISVILLE)",
+    "Cliente": "BESTOP",
+    "Total": 1404,
+    "monto": 32292,
+    "dias": 51,
+    "fecha_pago": "02-may-20"
+  },
+  {
+    "Fecha": "28-feb-20",
+    "CFDi": 7595,
+    "Razon social": "BESTOP INC .(LOUISVILLE)",
+    "Cliente": "BESTOP",
+    "Total": "15,019.20",
+    "monto": 345441.6,
+    "dias": 51,
+    "fecha_pago": "02-may-20"
+  },
+  {
+    "Fecha": "28-feb-20",
+    "CFDi": 7600,
+    "Razon social": "BESTOP INC .(LOUISVILLE)",
+    "Cliente": "BESTOP",
+    "Total": "1,344.00",
+    "monto": 30912,
+    "dias": 51,
+    "fecha_pago": "02-may-20"
+  },
+  {
+    "Fecha": "03-mar-20",
+    "CFDi": 11010,
+    "Razon social": "BESTOP INC .(LOUISVILLE)",
+    "Cliente": "BESTOP",
+    "Total": 12304.96,
+    "monto": 283014.08,
+    "dias": 47,
+    "fecha_pago": "08-may-20"
+  },
+  {
+    "Fecha": "03-mar-20",
+    "CFDi": 11011,
+    "Razon social": "BESTOP INC .(LOUISVILLE)",
+    "Cliente": "BESTOP",
+    "Total": 8250,
+    "monto": 189750,
+    "dias": 47,
+    "fecha_pago": "08-may-20"
+  },
+  {
+    "Fecha": "03-mar-20",
+    "CFDi": 11012,
+    "Razon social": "BESTOP INC .(LOUISVILLE)",
+    "Cliente": "BESTOP",
+    "Total": 64,
+    "monto": 1472,
+    "dias": 47,
+    "fecha_pago": "08-may-20"
+  },
+  {
+    "Fecha": "04-mar-20",
+    "CFDi": 11014,
+    "Razon social": "BESTOP INC .(LOUISVILLE)",
+    "Cliente": "BESTOP",
+    "Total": 18467.92,
+    "monto": 424762.16,
+    "dias": 46,
+    "fecha_pago": "08-may-20"
+  },
+  {
+    "Fecha": "05-mar-20",
+    "CFDi": 10962,
+    "Razon social": "BESTOP INC .(LOUISVILLE)",
+    "Cliente": "BESTOP",
+    "Total": 16075.3,
+    "monto": 369731.9,
+    "dias": 45,
+    "fecha_pago": "08-may-20"
+  },
+  {
+    "Fecha": "05-mar-20",
+    "CFDi": 7630,
+    "Razon social": "BESTOP INC .(LOUISVILLE)",
+    "Cliente": "BESTOP",
+    "Total": "21,355.20",
+    "monto": 491169.6,
+    "dias": 45,
+    "fecha_pago": "08-may-20"
+  },
+  {
+    "Fecha": "06-mar-20",
+    "CFDi": 7634,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": "4,146.76",
+    "monto": 95375.48,
+    "dias": 44,
+    "fecha_pago": "08-may-20"
+  },
+  {
+    "Fecha": "06-mar-20",
+    "CFDi": 7635,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": "4,046.87",
+    "monto": 93078.01,
+    "dias": 44,
+    "fecha_pago": "08-may-20"
+  },
+  {
+    "Fecha": "06-mar-20",
+    "CFDi": 7636,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": "4,146.76",
+    "monto": 95375.48,
+    "dias": 44,
+    "fecha_pago": "08-may-20"
+  },
+  {
+    "Fecha": "06-mar-20",
+    "CFDi": 10968,
+    "Razon social": "BESTOP INC .(LOUISVILLE)",
+    "Cliente": "BESTOP",
+    "Total": 41827.5,
+    "monto": 962032.5,
+    "dias": 44,
+    "fecha_pago": "08-may-20"
+  },
+  {
+    "Fecha": "07-mar-20",
+    "CFDi": 7637,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": "6,411.14",
+    "monto": 147456.22,
+    "dias": 43,
+    "fecha_pago": "08-may-20"
+  },
+  {
+    "Fecha": "07-mar-20",
+    "CFDi": 7638,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": "4,146.76",
+    "monto": 95375.48,
+    "dias": 43,
+    "fecha_pago": "08-may-20"
+  },
+  {
+    "Fecha": "07-mar-20",
+    "CFDi": 7639,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": "4,126.67",
+    "monto": 94913.41,
+    "dias": 43,
+    "fecha_pago": "08-may-20"
+  },
+  {
+    "Fecha": "07-mar-20",
+    "CFDi": 7640,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": "4,146.76",
+    "monto": 95375.48,
+    "dias": 43,
+    "fecha_pago": "08-may-20"
+  },
+  {
+    "Fecha": "07-mar-20",
+    "CFDi": 7641,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": "4,146.76",
+    "monto": 95375.48,
+    "dias": 43,
+    "fecha_pago": "08-may-20"
+  },
+  {
+    "Fecha": "08-mar-20",
+    "CFDi": 7642,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": "6,849.57",
+    "monto": 157540.11,
+    "dias": 42,
+    "fecha_pago": "08-may-20"
+  },
+  {
+    "Fecha": "08-mar-20",
+    "CFDi": 7643,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": "3,442.35",
+    "monto": 79174.05,
+    "dias": 42,
+    "fecha_pago": "08-may-20"
+  },
+  {
+    "Fecha": "08-mar-20",
+    "CFDi": 7645,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": "4,146.76",
+    "monto": 95375.48,
+    "dias": 42,
+    "fecha_pago": "08-may-20"
+  },
+  {
+    "Fecha": "08-mar-20",
+    "CFDi": 7646,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": "4,146.76",
+    "monto": 95375.48,
+    "dias": 42,
+    "fecha_pago": "08-may-20"
+  },
+  {
+    "Fecha": "10-mar-20",
+    "CFDi": 7647,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": "5,519.47",
+    "monto": 126947.81,
+    "dias": 40,
+    "fecha_pago": "08-may-20"
+  },
+  {
+    "Fecha": "10-mar-20",
+    "CFDi": 11021,
+    "Razon social": "BESTOP INC .(LOUISVILLE)",
+    "Cliente": "BESTOP",
+    "Total": 21441,
+    "monto": 493143,
+    "dias": 40,
+    "fecha_pago": "15-may-20"
+  },
+  {
+    "Fecha": "10-mar-20",
+    "CFDi": 11022,
+    "Razon social": "BESTOP INC .(LOUISVILLE)",
+    "Cliente": "BESTOP",
+    "Total": 15892,
+    "monto": 365516,
+    "dias": 40,
+    "fecha_pago": "15-may-20"
+  },
+  {
+    "Fecha": "11-mar-20",
+    "CFDi": 7648,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": 107.51,
+    "monto": 2472.73,
+    "dias": 39,
+    "fecha_pago": "08-may-20"
+  },
+  {
+    "Fecha": "12-mar-20",
+    "CFDi": 10976,
+    "Razon social": "BESTOP INC .(LOUISVILLE)",
+    "Cliente": "BESTOP",
+    "Total": 21043.2,
+    "monto": 483993.6,
+    "dias": 38,
+    "fecha_pago": "15-may-20"
+  },
+  {
+    "Fecha": "12-mar-20",
+    "CFDi": 7649,
+    "Razon social": "BESTOP INC .(LOUISVILLE)",
+    "Cliente": "BESTOP",
+    "Total": "14,675.70",
+    "monto": 337541.1,
+    "dias": 38,
+    "fecha_pago": "15-may-20"
+  },
+  {
+    "Fecha": "18-mar-20",
+    "CFDi": 7650,
+    "Razon social": "BESTOP INC .(LOUISVILLE)",
+    "Cliente": "BESTOP",
+    "Total": "21,019.80",
+    "monto": 483455.4,
+    "dias": 32,
+    "fecha_pago": "22-may-20"
+  },
+  {
+    "Fecha": "19-mar-20",
+    "CFDi": 7651,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": "4,146.76",
+    "monto": 95375.48,
+    "dias": 31,
+    "fecha_pago": "23-may-20"
+  },
+  {
+    "Fecha": "19-mar-20",
+    "CFDi": 7652,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": "11,776.00",
+    "monto": 270848,
+    "dias": 31,
+    "fecha_pago": "23-may-20"
+  },
+  {
+    "Fecha": "19-mar-20",
+    "CFDi": 7653,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": "4,064.34",
+    "monto": 93479.82,
+    "dias": 31,
+    "fecha_pago": "23-may-20"
+  },
+  {
+    "Fecha": "20-mar-20",
+    "CFDi": 7655,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": "4,146.76",
+    "monto": 95375.48,
+    "dias": 30,
+    "fecha_pago": "23-may-20"
+  },
+  {
+    "Fecha": "20-mar-20",
+    "CFDi": 7654,
+    "Razon social": "BESTOP INC .(LOUISVILLE)",
+    "Cliente": "BESTOP",
+    "Total": 102,
+    "monto": 2346,
+    "dias": 30,
+    "fecha_pago": "22-may-20"
+  },
+  {
+    "Fecha": "21-mar-20",
+    "CFDi": 7658,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": "6,372.66",
+    "monto": 146571.18,
+    "dias": 29,
+    "fecha_pago": "23-may-20"
+  },
+  {
+    "Fecha": "21-mar-20",
+    "CFDi": 7657,
+    "Razon social": "BESTOP INC .(LOUISVILLE)",
+    "Cliente": "BESTOP",
+    "Total": 805.46,
+    "monto": 18525.58,
+    "dias": 29,
+    "fecha_pago": "22-may-20"
+  },
+  {
+    "Fecha": "22-mar-20",
+    "CFDi": 7660,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": "4,146.76",
+    "monto": 95375.48,
+    "dias": 28,
+    "fecha_pago": "23-may-20"
+  },
+  {
+    "Fecha": "22-mar-20",
+    "CFDi": 7659,
+    "Razon social": "BESTOP INC .(LOUISVILLE)",
+    "Cliente": "BESTOP",
+    "Total": 289.3,
+    "monto": 6653.9,
+    "dias": 28,
+    "fecha_pago": "22-may-20"
+  },
+  {
+    "Fecha": "24-mar-20",
+    "CFDi": 7661,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": "4,146.76",
+    "monto": 95375.48,
+    "dias": 26,
+    "fecha_pago": "23-may-20"
+  },
+  {
+    "Fecha": "24-mar-20",
+    "CFDi": 7664,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": "5,824.22",
+    "monto": 133957.06,
+    "dias": 26,
+    "fecha_pago": "23-may-20"
+  },
+  {
+    "Fecha": "24-mar-20",
+    "CFDi": 7666,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": "3,683.23",
+    "monto": 84714.29,
+    "dias": 26,
+    "fecha_pago": "23-may-20"
+  },
+  {
+    "Fecha": "24-mar-20",
+    "CFDi": 7667,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": "4,146.76",
+    "monto": 95375.48,
+    "dias": 26,
+    "fecha_pago": "23-may-20"
+  },
+  {
+    "Fecha": "24-mar-20",
+    "CFDi": 7662,
+    "Razon social": "BESTOP INC .(LOUISVILLE)",
+    "Cliente": "BESTOP",
+    "Total": "1,463.48",
+    "monto": 33660.04,
+    "dias": 26,
+    "fecha_pago": "29-may-20"
+  },
+  {
+    "Fecha": "24-mar-20",
+    "CFDi": 11033,
+    "Razon social": "BESTOP INC .(LOUISVILLE)",
+    "Cliente": "BESTOP",
+    "Total": 8647.76,
+    "monto": 198898.48,
+    "dias": 26,
+    "fecha_pago": "29-may-20"
+  },
+  {
+    "Fecha": "25-mar-20",
+    "CFDi": 7668,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": "4,146.76",
+    "monto": 95375.48,
+    "dias": 25,
+    "fecha_pago": "23-may-20"
+  },
+  {
+    "Fecha": "25-mar-20",
+    "CFDi": 7670,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": "4,146.76",
+    "monto": 95375.48,
+    "dias": 25,
+    "fecha_pago": "23-may-20"
+  },
+  {
+    "Fecha": "25-mar-20",
+    "CFDi": 7671,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": "3,834.82",
+    "monto": 88200.86,
+    "dias": 25,
+    "fecha_pago": "23-may-20"
+  },
+  {
+    "Fecha": "25-mar-20",
+    "CFDi": 7669,
+    "Razon social": "BESTOP INC .(LOUISVILLE)",
+    "Cliente": "BESTOP",
+    "Total": "22,327.20",
+    "monto": 513525.6,
+    "dias": 25,
+    "fecha_pago": "29-may-20"
+  },
+  {
+    "Fecha": "26-mar-20",
+    "CFDi": 7672,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": "4,414.74",
+    "monto": 101539.02,
+    "dias": 24,
+    "fecha_pago": "23-may-20"
+  },
+  {
+    "Fecha": "26-mar-20",
+    "CFDi": 7673,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": "4,146.76",
+    "monto": 95375.48,
+    "dias": 24,
+    "fecha_pago": "23-may-20"
+  },
+  {
+    "Fecha": "26-mar-20",
+    "CFDi": 7674,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": "4,146.76",
+    "monto": 95375.48,
+    "dias": 24,
+    "fecha_pago": "23-may-20"
+  },
+  {
+    "Fecha": "26-mar-20",
+    "CFDi": 7675,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": "3,552.67",
+    "monto": 81711.41,
+    "dias": 24,
+    "fecha_pago": "23-may-20"
+  },
+  {
+    "Fecha": "26-mar-20",
+    "CFDi": 10108,
+    "Razon social": "BESTOP INC .(LOUISVILLE)",
+    "Cliente": "BESTOP",
+    "Total": 30095.1,
+    "monto": 692187.3,
+    "dias": 24,
+    "fecha_pago": "29-may-20"
+  },
+  {
+    "Fecha": "26-mar-20",
+    "CFDi": 7676,
+    "Razon social": "FLEX N GATE MEXICO S. DE R.L. DE C.V.",
+    "Cliente": "FLEX",
+    "Total": "2,194.08",
+    "monto": 50463.84,
+    "dias": 24,
+    "fecha_pago": "25-may-20"
+  },
+  {
+    "Fecha": "27-mar-20",
+    "CFDi": 7677,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": "4,146.76",
+    "monto": 95375.48,
+    "dias": 23,
+    "fecha_pago": "23-may-20"
+  },
+  {
+    "Fecha": "27-mar-20",
+    "CFDi": 7678,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": "5,260.32",
+    "monto": 120987.36,
+    "dias": 23,
+    "fecha_pago": "23-may-20"
+  },
+  {
+    "Fecha": "27-mar-20",
+    "CFDi": 7679,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": "4,146.76",
+    "monto": 95375.48,
+    "dias": 23,
+    "fecha_pago": "23-may-20"
+  },
+  {
+    "Fecha": "28-mar-20",
+    "CFDi": 7680,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": "7,860.08",
+    "monto": 180781.84,
+    "dias": 22,
+    "fecha_pago": "23-may-20"
+  },
+  {
+    "Fecha": "28-mar-20",
+    "CFDi": 7681,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": "4,146.76",
+    "monto": 95375.48,
+    "dias": 22,
+    "fecha_pago": "23-may-20"
+  },
+  {
+    "Fecha": "28-mar-20",
+    "CFDi": 7682,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": "5,550.04",
+    "monto": 127650.92,
+    "dias": 22,
+    "fecha_pago": "23-may-20"
+  },
+  {
+    "Fecha": "28-mar-20",
+    "CFDi": 7683,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": "4,146.76",
+    "monto": 95375.48,
+    "dias": 22,
+    "fecha_pago": "23-may-20"
+  },
+  {
+    "Fecha": "28-mar-20",
+    "CFDi": 7684,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": "4,146.76",
+    "monto": 95375.48,
+    "dias": 22,
+    "fecha_pago": "23-may-20"
+  },
+  {
+    "Fecha": "28-mar-20",
+    "CFDi": 7685,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": "4,900.41",
+    "monto": 112709.43,
+    "dias": 22,
+    "fecha_pago": "23-may-20"
+  },
+  {
+    "Fecha": "29-mar-20",
+    "CFDi": 7686,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": "4,146.76",
+    "monto": 95375.48,
+    "dias": 21,
+    "fecha_pago": "23-may-20"
+  },
+  {
+    "Fecha": "29-mar-20",
+    "CFDi": 7687,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": "4,146.76",
+    "monto": 95375.48,
+    "dias": 21,
+    "fecha_pago": "23-may-20"
+  },
+  {
+    "Fecha": "29-mar-20",
+    "CFDi": 7688,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": "3,242.81",
+    "monto": 74584.63,
+    "dias": 21,
+    "fecha_pago": "23-may-20"
+  },
+  {
+    "Fecha": "30-mar-20",
+    "CFDi": 7689,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": "4,146.76",
+    "monto": 95375.48,
+    "dias": 20,
+    "fecha_pago": "23-may-20"
+  },
+  {
+    "Fecha": "31-mar-20",
+    "CFDi": 11046,
+    "Razon social": "BESTOP INC .(LOUISVILLE)",
+    "Cliente": "BESTOP",
+    "Total": 13240,
+    "monto": 304520,
+    "dias": 19,
+    "fecha_pago": "29-may-20"
+  },
+  {
+    "Fecha": "01-abr-20",
+    "CFDi": 7690,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": "4,146.76",
+    "monto": 95375.48,
+    "dias": 18,
+    "fecha_pago": "12-jun-20"
+  },
+  {
+    "Fecha": "01-abr-20",
+    "CFDi": 7691,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": "4,146.76",
+    "monto": 95375.48,
+    "dias": 18,
+    "fecha_pago": "12-jun-20"
+  },
+  {
+    "Fecha": "01-abr-20",
+    "CFDi": 7692,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": "7,978.15",
+    "monto": 183497.45,
+    "dias": 18,
+    "fecha_pago": "12-jun-20"
+  },
+  {
+    "Fecha": "01-abr-20",
+    "CFDi": 7693,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": "4,146.76",
+    "monto": 95375.48,
+    "dias": 18,
+    "fecha_pago": "12-jun-20"
+  },
+  {
+    "Fecha": "02-abr-20",
+    "CFDi": 7694,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": "5,139.40",
+    "monto": 118206.2,
+    "dias": 17,
+    "fecha_pago": "12-jun-20"
+  },
+  {
+    "Fecha": "02-abr-20",
+    "CFDi": 7695,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": "4,146.76",
+    "monto": 95375.48,
+    "dias": 17,
+    "fecha_pago": "12-jun-20"
+  },
+  {
+    "Fecha": "02-abr-20",
+    "CFDi": 7699,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": "4,146.76",
+    "monto": 95375.48,
+    "dias": 17,
+    "fecha_pago": "12-jun-20"
+  },
+  {
+    "Fecha": "02-abr-20",
+    "CFDi": 7700,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": "5,199.63",
+    "monto": 119591.49,
+    "dias": 17,
+    "fecha_pago": "12-jun-20"
+  },
+  {
+    "Fecha": "02-abr-20",
+    "CFDi": 7698,
+    "Razon social": "BESTOP INC .(LOUISVILLE)",
+    "Cliente": "BESTOP",
+    "Total": "20,932.80",
+    "monto": 481454.4,
+    "dias": 17,
+    "fecha_pago": "05-jun-20"
+  },
+  {
+    "Fecha": "03-abr-20",
+    "CFDi": 7701,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": "4,146.76",
+    "monto": 95375.48,
+    "dias": 16,
+    "fecha_pago": "12-jun-20"
+  },
+  {
+    "Fecha": "03-abr-20",
+    "CFDi": 7702,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": "5,231.09",
+    "monto": 120315.07,
+    "dias": 16,
+    "fecha_pago": "12-jun-20"
+  },
+  {
+    "Fecha": "03-abr-20",
+    "CFDi": 7704,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": "4,146.76",
+    "monto": 95375.48,
+    "dias": 16,
+    "fecha_pago": "12-jun-20"
+  },
+  {
+    "Fecha": "03-abr-20",
+    "CFDi": 7705,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": "6,396.48",
+    "monto": 147119.04,
+    "dias": 16,
+    "fecha_pago": "12-jun-20"
+  },
+  {
+    "Fecha": "03-abr-20",
+    "CFDi": 7706,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": "4,146.76",
+    "monto": 95375.48,
+    "dias": 16,
+    "fecha_pago": "12-jun-20"
+  },
+  {
+    "Fecha": "04-abr-20",
+    "CFDi": 7707,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": "4,146.76",
+    "monto": 95375.48,
+    "dias": 15,
+    "fecha_pago": "12-jun-20"
+  },
+  {
+    "Fecha": "04-abr-20",
+    "CFDi": 7708,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": "4,160.87",
+    "monto": 95700.01,
+    "dias": 15,
+    "fecha_pago": "12-jun-20"
+  },
+  {
+    "Fecha": "04-abr-20",
+    "CFDi": 7709,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": 38.28,
+    "monto": 880.44,
+    "dias": 15,
+    "fecha_pago": "12-jun-20"
+  },
+  {
+    "Fecha": "04-abr-20",
+    "CFDi": 7710,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": "5,328.52",
+    "monto": 122555.96,
+    "dias": 15,
+    "fecha_pago": "12-jun-20"
+  },
+  {
+    "Fecha": "04-abr-20",
+    "CFDi": 7711,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": "3,597.34",
+    "monto": 82738.82,
+    "dias": 15,
+    "fecha_pago": "12-jun-20"
+  },
+  {
+    "Fecha": "04-abr-20",
+    "CFDi": 7712,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": "4,146.76",
+    "monto": 95375.48,
+    "dias": 15,
+    "fecha_pago": "12-jun-20"
+  },
+  {
+    "Fecha": "05-abr-20",
+    "CFDi": 7713,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": "4,909.83",
+    "monto": 112926.09,
+    "dias": 14,
+    "fecha_pago": "12-jun-20"
+  },
+  {
+    "Fecha": "05-abr-20",
+    "CFDi": 7714,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": "4,146.76",
+    "monto": 95375.48,
+    "dias": 14,
+    "fecha_pago": "12-jun-20"
+  },
+  {
+    "Fecha": "05-abr-20",
+    "CFDi": 7715,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": "5,312.60",
+    "monto": 122189.8,
+    "dias": 14,
+    "fecha_pago": "12-jun-20"
+  },
+  {
+    "Fecha": "05-abr-20",
+    "CFDi": 7716,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": "4,146.76",
+    "monto": 95375.48,
+    "dias": 14,
+    "fecha_pago": "12-jun-20"
+  },
+  {
+    "Fecha": "05-abr-20",
+    "CFDi": 7717,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": "4,146.76",
+    "monto": 95375.48,
+    "dias": 14,
+    "fecha_pago": "12-jun-20"
+  },
+  {
+    "Fecha": "05-abr-20",
+    "CFDi": 7718,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": "4,748.37",
+    "monto": 109212.51,
+    "dias": 14,
+    "fecha_pago": "12-jun-20"
+  },
+  {
+    "Fecha": "07-abr-20",
+    "CFDi": 7719,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": "4,146.76",
+    "monto": 95375.48,
+    "dias": 12,
+    "fecha_pago": "12-jun-20"
+  },
+  {
+    "Fecha": "07-abr-20",
+    "CFDi": 7721,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": "3,009.22",
+    "monto": 69212.06,
+    "dias": 12,
+    "fecha_pago": "12-jun-20"
+  },
+  {
+    "Fecha": "07-abr-20",
+    "CFDi": 7722,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": "5,551.00",
+    "monto": 127673,
+    "dias": 12,
+    "fecha_pago": "12-jun-20"
+  },
+  {
+    "Fecha": "07-abr-20",
+    "CFDi": 7723,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": "4,146.76",
+    "monto": 95375.48,
+    "dias": 12,
+    "fecha_pago": "12-jun-20"
+  },
+  {
+    "Fecha": "07-abr-20",
+    "CFDi": 7724,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": "3,900.69",
+    "monto": 89715.87,
+    "dias": 12,
+    "fecha_pago": "12-jun-20"
+  },
+  {
+    "Fecha": "07-abr-20",
+    "CFDi": 11057,
+    "Razon social": "BESTOP INC .(LOUISVILLE)",
+    "Cliente": "BESTOP",
+    "Total": "",
+    "monto": 0,
+    "dias": 12,
+    "fecha_pago": "05-jun-20"
+  },
+  {
+    "Fecha": "08-abr-20",
+    "CFDi": 7725,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": "3,834.81",
+    "monto": 88200.63,
+    "dias": 11,
+    "fecha_pago": "12-jun-20"
+  },
+  {
+    "Fecha": "08-abr-20",
+    "CFDi": 7726,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": "4,182.48",
+    "monto": 96197.04,
+    "dias": 11,
+    "fecha_pago": "12-jun-20"
+  },
+  {
+    "Fecha": "08-abr-20",
+    "CFDi": 7727,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": "4,146.75",
+    "monto": 95375.25,
+    "dias": 11,
+    "fecha_pago": "12-jun-20"
+  },
+  {
+    "Fecha": "08-abr-20",
+    "CFDi": 7729,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": "4,146.77",
+    "monto": 95375.71,
+    "dias": 11,
+    "fecha_pago": "12-jun-20"
+  },
+  {
+    "Fecha": "08-abr-20",
+    "CFDi": 7730,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": "3,615.51",
+    "monto": 83156.73,
+    "dias": 11,
+    "fecha_pago": "12-jun-20"
+  },
+  {
+    "Fecha": "09-abr-20",
+    "CFDi": 7731,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": "4,146.75",
+    "monto": 95375.25,
+    "dias": 10,
+    "fecha_pago": "12-jun-20"
+  },
+  {
+    "Fecha": "09-abr-20",
+    "CFDi": 7732,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": "4,146.76",
+    "monto": 95375.48,
+    "dias": 10,
+    "fecha_pago": "12-jun-20"
+  },
+  {
+    "Fecha": "09-abr-20",
+    "CFDi": 7733,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": "4,146.76",
+    "monto": 95375.48,
+    "dias": 10,
+    "fecha_pago": "12-jun-20"
+  },
+  {
+    "Fecha": "09-abr-20",
+    "CFDi": 7734,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": "4,127.19",
+    "monto": 94925.37,
+    "dias": 10,
+    "fecha_pago": "12-jun-20"
+  },
+  {
+    "Fecha": "09-abr-20",
+    "CFDi": 7735,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": "3,683.24",
+    "monto": 84714.52,
+    "dias": 10,
+    "fecha_pago": "12-jun-20"
+  },
+  {
+    "Fecha": "09-abr-20",
+    "CFDi": 7737,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": "4,146.77",
+    "monto": 95375.71,
+    "dias": 10,
+    "fecha_pago": "12-jun-20"
+  },
+  {
+    "Fecha": "10-abr-20",
+    "CFDi": 7738,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": "5,253.82",
+    "monto": 120837.86,
+    "dias": 9,
+    "fecha_pago": "12-jun-20"
+  },
+  {
+    "Fecha": "10-abr-20",
+    "CFDi": 7739,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": "4,465.76",
+    "monto": 102712.48,
+    "dias": 9,
+    "fecha_pago": "12-jun-20"
+  },
+  {
+    "Fecha": "10-abr-20",
+    "CFDi": 7740,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": "4,285.22",
+    "monto": 98560.06,
+    "dias": 9,
+    "fecha_pago": "12-jun-20"
+  },
+  {
+    "Fecha": "10-abr-20",
+    "CFDi": 7741,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": 190.05,
+    "monto": 4371.15,
+    "dias": 9,
+    "fecha_pago": "12-jun-20"
+  },
+  {
+    "Fecha": "10-abr-20",
+    "CFDi": 7742,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": "4,107.78",
+    "monto": 94478.94,
+    "dias": 9,
+    "fecha_pago": "12-jun-20"
+  },
+  {
+    "Fecha": "10-abr-20",
+    "CFDi": 7743,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": 380.11,
+    "monto": 8742.53,
+    "dias": 9,
+    "fecha_pago": "12-jun-20"
+  },
+  {
+    "Fecha": "10-abr-20",
+    "CFDi": 7744,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": "4,146.76",
+    "monto": 95375.48,
+    "dias": 9,
+    "fecha_pago": "12-jun-20"
+  },
+  {
+    "Fecha": "11-abr-20",
+    "CFDi": 7745,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": "5,368.56",
+    "monto": 123476.88,
+    "dias": 8,
+    "fecha_pago": "12-jun-20"
+  },
+  {
+    "Fecha": "11-abr-20",
+    "CFDi": 7746,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": 380.11,
+    "monto": 8742.53,
+    "dias": 8,
+    "fecha_pago": "12-jun-20"
+  },
+  {
+    "Fecha": "11-abr-20",
+    "CFDi": 7747,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": "4,146.76",
+    "monto": 95375.48,
+    "dias": 8,
+    "fecha_pago": "12-jun-20"
+  },
+  {
+    "Fecha": "11-abr-20",
+    "CFDi": 7748,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": "3,793.78",
+    "monto": 87256.94,
+    "dias": 8,
+    "fecha_pago": "12-jun-20"
+  },
+  {
+    "Fecha": "11-abr-20",
+    "CFDi": 7749,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": "4,146.76",
+    "monto": 95375.48,
+    "dias": 8,
+    "fecha_pago": "12-jun-20"
+  },
+  {
+    "Fecha": "11-abr-20",
+    "CFDi": 7750,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": 340.07,
+    "monto": 7821.61,
+    "dias": 8,
+    "fecha_pago": "12-jun-20"
+  },
+  {
+    "Fecha": "11-abr-20",
+    "CFDi": 7751,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": 113.36,
+    "monto": 2607.28,
+    "dias": 8,
+    "fecha_pago": "12-jun-20"
+  },
+  {
+    "Fecha": "12-abr-20",
+    "CFDi": 7752,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": "4,146.76",
+    "monto": 95375.48,
+    "dias": 7,
+    "fecha_pago": "12-jun-20"
+  },
+  {
+    "Fecha": "12-abr-20",
+    "CFDi": 7753,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": "4,146.76",
+    "monto": 95375.48,
+    "dias": 7,
+    "fecha_pago": "12-jun-20"
+  },
+  {
+    "Fecha": "13-abr-20",
+    "CFDi": 7754,
+    "Razon social": "ANTOLIN INTERIORS MEXICO S.A. DE C.V.",
+    "Cliente": "ANTOLIN",
+    "Total": "5,511.33",
+    "monto": 126760.59,
+    "dias": 6,
+    "fecha_pago": "12-jun-20"
+  }
+]
